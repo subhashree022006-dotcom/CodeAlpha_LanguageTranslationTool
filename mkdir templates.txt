@@ -1,0 +1,6 @@
+mkdir templates
+mkdir static
+type nul > app.py
+type nul > templates\index.html
+type nul > static\style.css
+type nul > static\script.js
