@@ -1,5 +1,4 @@
 # CodeAlpha_LanguageTranslationTool
-
 ## About
 A Language Translation Tool built with Python 
 and Flask that translates text between 20+ languages 
